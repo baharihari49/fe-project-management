@@ -1,7 +1,5 @@
 import { DropdownProfile } from "./dropdownProfile"
 
-
-
 export const Navbar = () => {
     return(
         <>
